@@ -24,7 +24,7 @@ sass:
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Make at cfal
-description: "Home of the makerspaceA"
+description: "Home of the makerspace"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
